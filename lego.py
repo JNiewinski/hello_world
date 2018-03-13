@@ -16,4 +16,4 @@ def kalibracja(czarny,bialy, silniklewy,silnikprawy,predkosc, czas):
   
   czaskonc = time.time() + czas
   while time.time() < czaskonc :
-    if 
+    if collewy.
